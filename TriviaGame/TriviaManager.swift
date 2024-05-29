@@ -2,7 +2,7 @@
 //  TriviaManager.swift
 //  TriviaGame
 //
-//  Created by Harshitha GuruRaj on 5/26/24.
+//  Created by Chetan Kumar on 5/26/24.
 //
 
 import Foundation

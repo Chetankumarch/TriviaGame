@@ -2,7 +2,7 @@
 //  PrimaryButton.swift
 //  TriviaGame
 //
-//  Created by Harshitha GuruRaj on 5/25/24.
+//  Created by Chetan Kumar on 5/25/24.
 //
 
 import SwiftUI
